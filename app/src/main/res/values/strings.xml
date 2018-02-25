@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">AIR MINERAL</string>
+    <string name="title_placeholder">Title</string>
+    <string name="title_descriptions">The descriptions</string>
+    <string name="filler_text">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the standard indsutry dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled it to make a type
+        specimen book. It has survived not only five centuries, but also the leap into
+        electronic typesetting, remaining essentially unchanged. It was popularised in
+        the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+        and more recently with desktop publishing software like Aldus PageMaker including
+        versions of Lorem Ipsum.</string>
+    <string-array name="mineral_titles">
+        <item>Aqua</item>
+        <item>Pristine</item>
+        <item>Le Minerale</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>Ades</item>
+        <item>Amidis</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Nestle</item>
+        <item>Vit</item>
+    </string-array>
+    <string-array name="mineral_descriptions">
+        <item>Ini adalah air mineral ber-merek Aqua</item>
+        <item>Ini adalah air mineral ber-merek Pristine</item>
+        <item>Ini adalah air mineral ber-merek Le Minerale</item>
+        <item>Ini adalah air mineral ber-merek Cleo</item>
+        <item>Ini adalah air mineral ber-merek Club</item>
+        <item>Ini adalah air mineral ber-merek Ades</item>
+        <item>Ini adalah air mineral ber-merek Amidis</item>
+        <item>Ini adalah air mineral ber-merek Equil</item>
+        <item>Ini adalah air mineral ber-merek Evian</item>
+        <item>Ini adalah air mineral ber-merek Nestle</item>
+        <item>Ini adalah air mineral ber-merek Vit</item>
+    </string-array>
+    <string-array name="mineral_images">
+        <item>@drawable/aqua</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/vit</item>
+    </string-array>
+</resources>
